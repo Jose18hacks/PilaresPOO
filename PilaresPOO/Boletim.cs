@@ -9,12 +9,11 @@ namespace PilaresPOO
         public string Aluno {  get; set; }
         private double Nota;
 
-        public double DefinirNota(double valor)
+        public void DefinirNota(double valor)
         {
-            if (Nota <0 || Nota > 10)
+            if (valor <0 || valor > 10)
             {
-                Console.WriteLine($"Nota inválida! {Nota}");
-                return Nota;
+                Console.WriteLine($"Nota inválida! {valor}");
             }
         }
     }

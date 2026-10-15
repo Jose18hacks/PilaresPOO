@@ -32,10 +32,20 @@
 //c1.Exibir();
 //c2.Exibir();
 
-ContadorDeVisitas contador = new ContadorDeVisitas();
+//ContadorDeVisitas contador = new ContadorDeVisitas();
 
-contador.RegistrarVisita();
-contador.RegistrarVisita();
-contador.RegistrarVisita();
+//contador.RegistrarVisita();
+//contador.RegistrarVisita();
+//contador.RegistrarVisita();
 
-Console.WriteLine($"Total de visitas: {contador.ObterTotal()}");
+//Console.WriteLine($"Total de visitas: {contador.ObterTotal()}");
+
+Usuario usuario = new Usuario("ana123", "segredo");
+
+Console.WriteLine(usuario.ConferirSenha("1234"));
+Console.WriteLine(usuario.ConferirSenha("segredo"));
+
+usuario.TrocarSenha("errada", "novaSenha");
+usuario.TrocarSenha("segredo", "novaSenha");
+
+Console.WriteLine(usuario.ConferirSenha("novaSenha"));

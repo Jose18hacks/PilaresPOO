@@ -271,12 +271,19 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 //string frase = ana.ObterApresentacao();
 //Console.WriteLine(frase);
 //```
-Pessoa2 ana = new Pessoa2();
+//Pessoa2 ana = new Pessoa2();
 
-ana.Nome = "Ana";
+//ana.Nome = "Ana";
 
-ana.Cumprimentar();
-ana.CumprimentarAlguem("Bruno");
+//ana.Cumprimentar();
+//ana.CumprimentarAlguem("Bruno");
 
-string frase = ana.ObterApresentacao();
-Console.WriteLine(frase);
+//string frase = ana.ObterApresentacao();
+//Console.WriteLine(frase);
+
+
+//ENCAPSULAMENTO -> Public, Private, Internal (onde o dado pode ser alterado)
+//GET ; SET
+
+//GET -> le o dado
+//SET -> alterar o dado
