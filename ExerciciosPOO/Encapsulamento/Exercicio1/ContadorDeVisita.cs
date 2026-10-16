@@ -6,7 +6,7 @@ namespace PilaresPOO
 {
     internal class ContadorDeVisitas
     {
-        private int Visitas;
+        private int Visitas {  get; set; }
 
         public void RegistrarVisita()
         {

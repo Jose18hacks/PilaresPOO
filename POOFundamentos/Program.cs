@@ -285,5 +285,9 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 //ENCAPSULAMENTO -> Public, Private, Internal (onde o dado pode ser alterado)
 //GET ; SET
 
-//GET -> le o dado
-//SET -> alterar o dado
+//GET -> Função de ler
+//SET -> Funçõ de mudar
+
+
+
+//Herança (Reaproveitar código) Herdar de uma classe pai

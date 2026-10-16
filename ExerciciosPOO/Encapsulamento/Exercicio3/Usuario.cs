@@ -9,7 +9,7 @@ namespace PilaresPOO
         public string Login;
         private string Senha;
 
-        public Usuario(string login,  string senha)
+        public Usuario(string login, string senha)
         {
             Login = login;
             Senha = senha;

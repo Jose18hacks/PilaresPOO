@@ -1,4 +1,5 @@
 ﻿using PilaresPOO;
+using PilaresPOO.Heranca;
 
 //Carro carro1 = new Carro("Hyundai", "HB20");
 
@@ -40,12 +41,20 @@
 
 //Console.WriteLine($"Total de visitas: {contador.ObterTotal()}");
 
-Usuario usuario = new Usuario("ana123", "segredo");
+//Usuario usuario = new Usuario("ana123", "segredo");
 
-Console.WriteLine(usuario.ConferirSenha("1234"));
-Console.WriteLine(usuario.ConferirSenha("segredo"));
+//Console.WriteLine(usuario.ConferirSenha("1234"));
+//Console.WriteLine(usuario.ConferirSenha("segredo"));
 
-usuario.TrocarSenha("errada", "novaSenha");
-usuario.TrocarSenha("segredo", "novaSenha");
+//usuario.TrocarSenha("errada", "novaSenha");
+//usuario.TrocarSenha("segredo", "novaSenha");
 
-Console.WriteLine(usuario.ConferirSenha("novaSenha"));
+//Console.WriteLine(usuario.ConferirSenha("novaSenha"));
+
+Aluno aluno = new Aluno();
+
+aluno.Nome = "José";
+aluno.Idade = 18;
+aluno.Matricula = "8432193";
+
+aluno.Apresentar();
