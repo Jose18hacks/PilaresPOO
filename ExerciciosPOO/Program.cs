@@ -2,8 +2,13 @@
 using ExerciciosPOO.Heranca.Exercicio1;
 using ExerciciosPOO.Heranca.Exercicio2;
 using ExerciciosPOO.Heranca.Exercicio3;
+using ExerciciosPOO.Lista1_ClassesObjetos.INTERMEDIARIO.Exercicio1;
+using ExerciciosPOO.Polimorfismo.Exercicio1;
+using ExerciciosPOO.Polimorfismo.Exercicio2;
+using ExerciciosPOO.Polimorfismo.Exercicio3;
 using PilaresPOO;
 using POOFundamentos;
+using System.Diagnostics.Metrics;
 
 
 
@@ -60,6 +65,60 @@ using POOFundamentos;
 //Console.WriteLine($"Area: {retangulo.CalcularArea()}");
 //Console.WriteLine($"Perimetro: {retangulo.CalcularPerimetro()}");
 
+
+
+
+
+//### 💡 Exercício 3: Lâmpada
+
+//Crie a classe `Lampada` com:
+
+//-Atributo: `Ligada` (`bool`).
+//- Métodos: `Ligar()`, `Desligar()`, `Alternar()` (se está ligada, desliga; se está desligada, liga) e `ExibirEstado()`.
+
+//Crie uma lâmpada e chame, nesta ordem: `ExibirEstado()`, `Ligar()`, `ExibirEstado()`, `Alternar()`, `ExibirEstado()`.
+
+//**Saída esperada: **
+
+//```
+//A lâmpada está desligada.
+//A lâmpada está ligada.
+//A lâmpada está desligada.
+//```
+
+//Lampada lampada = new Lampada();
+
+//lampada.ExibirEstado();
+
+//lampada.Ligar();
+//lampada.ExibirEstado();
+
+//lampada.Alternar();
+//lampada.ExibirEstado();
+
+
+
+
+
+//#### 🏦 Exercício 4: Conta Bancária
+
+//Crie a classe `ContaBancaria` com:
+
+//-Atributos: `Titular` (texto) e `Saldo` (número com centavos).
+//- Método `Depositar(double valor)`: soma o valor ao saldo.
+//- Método `Sacar(double valor)`: só tira o dinheiro se houver saldo suficiente. Se não houver, mostra uma mensagem e o saldo não muda.
+//- Método `ExibirSaldo()`.
+
+ContaBancaria conta = new ContaBancaria();
+
+conta.Titular = "José";
+conta.Saldo = 300;
+double deposito = conta.Depositar(500);
+Console.WriteLine($"Depósito de R$ {deposito:F2} realizado");
+double saque = conta.Sacar(200);
+Console.WriteLine($"Saque de R$ {saque:F2} realizado");
+conta.Sacar(1000);
+conta.ExibirSaldo();
 
 
 
@@ -268,3 +327,60 @@ using POOFundamentos;
 
 //moto.Exibir();
 //moto.ExibirCilindradas();
+
+
+
+
+
+//Polimorfismo
+
+
+
+
+
+//### 👋 Exercício 1: Saudação
+
+//Crie a classe `Saudacao` com **três versões** do método `Cumprimentar`:
+
+//- `Cumprimentar()`: mostra "Olá!".
+//- `Cumprimentar(string nome)`: mostra "Olá, {nome}!".
+//- `Cumprimentar(string nome, int idade)`: mostra "Olá, {nome}! Você tem {idade} anos.".
+
+//Saudacao s = new Saudacao();
+
+//s.Cumprimentar();
+//s.Cumprimentar("Ana");
+//s.Cumprimentar("Bruno", 25);
+
+
+
+
+
+//### 📐 Exercício 2: Calculadora de Área
+
+//Crie a classe `CalculadoraDeArea` com duas versões do método `CalcularArea`:
+
+//- `CalcularArea(double lado)`: **retorna * *a área do quadrado (lado × lado).
+//- `CalcularArea(double largura, double altura)`: **retorna * *a área do retângulo (largura × altura).
+
+//CalculadoraDeArea calc = new CalculadoraDeArea();
+
+//Console.WriteLine($"Quadrado: {calc.CalcularArea(4)}");
+//Console.WriteLine($"Retângulo: {calc.CalcularArea(3, 5)}");
+
+
+
+
+
+//### 🎸 Exercício 3: Instrumento e Violão (sobrescrita)
+
+//Crie as classes:
+
+//- `Instrumento` (classe pai): método `virtual` `Tocar()`, que mostra "Tocando um instrumento...".
+//- `Violao` (filha de `Instrumento`): **sobrescreve * * `Tocar()` para mostrar "Violão: plim plim".
+
+//Instrumento instrumento = new Instrumento();
+//Violao violao = new Violao();
+
+//instrumento.Tocar();
+//violao.Tocar();

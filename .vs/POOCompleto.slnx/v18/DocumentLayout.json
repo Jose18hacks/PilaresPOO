@@ -3,24 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\56385615871\\Desktop\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|c:\\users\\56385615871\\desktop\\poo\\exerciciospoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|solutionrelative:exerciciospoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\56385615871\\desktop\\poo\\pilarespoo\\pilarespoo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\pilarespoo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|c:\\users\\56385615871\\desktop\\poo\\exerciciospoo\\lista1-classesobjetos\\facil\\exercicio2\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|solutionrelative:exerciciospoo\\lista1-classesobjetos\\facil\\exercicio2\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\56385615871\\desktop\\poo\\pilarespoo\\abstracao\\inotificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\abstracao\\inotificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\56385615871\\desktop\\poo\\pilarespoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|c:\\users\\56385615871\\desktop\\poo\\exerciciospoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|solutionrelative:exerciciospoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|c:\\users\\56385615871\\desktop\\poo\\exerciciospoo\\lista1-classesobjetos\\facil\\exercicio1\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|solutionrelative:exerciciospoo\\lista1-classesobjetos\\facil\\exercicio1\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3E54227-19B5-C6A8-9B18-FDE4976C1815}|POOFundamentos\\POOFundamentos.csproj|c:\\users\\56385615871\\desktop\\poo\\poofundamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E54227-19B5-C6A8-9B18-FDE4976C1815}|POOFundamentos\\POOFundamentos.csproj|solutionrelative:poofundamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|c:\\users\\56385615871\\desktop\\poo\\exerciciospoo\\lista1_classesobjetos\\facil\\exercicio1\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|solutionrelative:exerciciospoo\\lista1_classesobjetos\\facil\\exercicio1\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|c:\\users\\56385615871\\desktop\\poo\\exerciciospoo\\lista1_classesobjetos\\intermediario\\exercicio1\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|solutionrelative:exerciciospoo\\lista1_classesobjetos\\intermediario\\exercicio1\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|c:\\users\\56385615871\\desktop\\poo\\exerciciospoo\\polimorfismo\\exercicio3\\instrumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|solutionrelative:exerciciospoo\\polimorfismo\\exercicio3\\instrumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|c:\\users\\56385615871\\desktop\\poo\\exerciciospoo\\polimorfismo\\exercicio2\\calculadoradearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|solutionrelative:exerciciospoo\\polimorfismo\\exercicio2\\calculadoradearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\56385615871\\desktop\\poo\\pilarespoo\\polimorfismo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\polimorfismo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\56385615871\\desktop\\poo\\pilarespoo\\polimorfismo\\polimorfismoex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\polimorfismo\\polimorfismoex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|c:\\users\\56385615871\\desktop\\poo\\exerciciospoo\\polimorfismo\\exercicio1\\saudacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|solutionrelative:exerciciospoo\\polimorfismo\\exercicio1\\saudacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|c:\\users\\56385615871\\desktop\\poo\\exerciciospoo\\lista1_classesobjetos\\facil\\exercicio3\\lampada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|solutionrelative:exerciciospoo\\lista1_classesobjetos\\facil\\exercicio3\\lampada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|c:\\users\\56385615871\\desktop\\poo\\exerciciospoo\\lista1_classesobjetos\\facil\\exercicio2\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|solutionrelative:exerciciospoo\\lista1_classesobjetos\\facil\\exercicio2\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|c:\\users\\56385615871\\desktop\\poo\\exerciciospoo\\metodoconstrutor\\exercicio3\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,10 +95,6 @@
       "RelativeMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|solutionrelative:exerciciospoo\\heranca\\exercicio1\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|c:\\users\\56385615871\\desktop\\poo\\exerciciospoo\\exerciciospoo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|solutionrelative:exerciciospoo\\exerciciospoo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\56385615871\\desktop\\poo\\pilarespoo\\heranca\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\heranca\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -79,14 +107,6 @@
       "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\heranca\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3E54227-19B5-C6A8-9B18-FDE4976C1815}|POOFundamentos\\POOFundamentos.csproj|c:\\users\\56385615871\\desktop\\poo\\poofundamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3E54227-19B5-C6A8-9B18-FDE4976C1815}|POOFundamentos\\POOFundamentos.csproj|solutionrelative:poofundamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3E54227-19B5-C6A8-9B18-FDE4976C1815}|POOFundamentos\\POOFundamentos.csproj|c:\\users\\56385615871\\desktop\\poo\\poofundamentos\\poofundamentos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D3E54227-19B5-C6A8-9B18-FDE4976C1815}|POOFundamentos\\POOFundamentos.csproj|solutionrelative:poofundamentos\\poofundamentos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|c:\\users\\56385615871\\desktop\\poo\\exerciciospoo\\encapsulamento\\exercicio2\\boletim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|solutionrelative:exerciciospoo\\encapsulamento\\exercicio2\\boletim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -97,10 +117,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|c:\\users\\56385615871\\desktop\\poo\\exerciciospoo\\encapsulamento\\exercicio1\\contadordevisita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E45FFFC-84F6-4C86-8C23-8D65DB4C0598}|ExerciciosPOO\\ExerciciosPOO.csproj|solutionrelative:exerciciospoo\\encapsulamento\\exercicio1\\contadordevisita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3E54227-19B5-C6A8-9B18-FDE4976C1815}|POOFundamentos\\POOFundamentos.csproj|c:\\users\\56385615871\\desktop\\poo\\poofundamentos\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{D3E54227-19B5-C6A8-9B18-FDE4976C1815}|POOFundamentos\\POOFundamentos.csproj|solutionrelative:poofundamentos\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,33 +126,149 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 20,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "INotificador.cs",
+              "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\PilaresPOO\\Abstracao\\INotificador.cs",
+              "RelativeDocumentMoniker": "PilaresPOO\\Abstracao\\INotificador.cs",
+              "ToolTip": "C:\\Users\\56385615871\\Desktop\\POO\\PilaresPOO\\Abstracao\\INotificador.cs",
+              "RelativeToolTip": "PilaresPOO\\Abstracao\\INotificador.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T00:31:12.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PilaresPOO",
+              "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\PilaresPOO\\PilaresPOO.csproj",
+              "RelativeDocumentMoniker": "PilaresPOO\\PilaresPOO.csproj",
+              "ToolTip": "C:\\Users\\56385615871\\Desktop\\POO\\PilaresPOO\\PilaresPOO.csproj",
+              "RelativeToolTip": "PilaresPOO\\PilaresPOO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-17T00:29:47.579Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Lista1_ClassesObjetos\\INTERMEDIARIO\\Exercicio1\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "ExerciciosPOO\\Lista1_ClassesObjetos\\INTERMEDIARIO\\Exercicio1\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Lista1_ClassesObjetos\\INTERMEDIARIO\\Exercicio1\\ContaBancaria.cs",
+              "RelativeToolTip": "ExerciciosPOO\\Lista1_ClassesObjetos\\INTERMEDIARIO\\Exercicio1\\ContaBancaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T23:17:03.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Instrumento.cs",
+              "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Polimorfismo\\Exercicio3\\Instrumento.cs",
+              "RelativeDocumentMoniker": "ExerciciosPOO\\Polimorfismo\\Exercicio3\\Instrumento.cs",
+              "ToolTip": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Polimorfismo\\Exercicio3\\Instrumento.cs",
+              "RelativeToolTip": "ExerciciosPOO\\Polimorfismo\\Exercicio3\\Instrumento.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T23:09:40.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculadoraDeArea.cs",
+              "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Polimorfismo\\Exercicio2\\CalculadoraDeArea.cs",
+              "RelativeDocumentMoniker": "ExerciciosPOO\\Polimorfismo\\Exercicio2\\CalculadoraDeArea.cs",
+              "ToolTip": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Polimorfismo\\Exercicio2\\CalculadoraDeArea.cs",
+              "RelativeToolTip": "ExerciciosPOO\\Polimorfismo\\Exercicio2\\CalculadoraDeArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T23:05:23.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Saudacao.cs",
+              "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Polimorfismo\\Exercicio1\\Saudacao.cs",
+              "RelativeDocumentMoniker": "ExerciciosPOO\\Polimorfismo\\Exercicio1\\Saudacao.cs",
+              "ToolTip": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Polimorfismo\\Exercicio1\\Saudacao.cs",
+              "RelativeToolTip": "ExerciciosPOO\\Polimorfismo\\Exercicio1\\Saudacao.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:59:03.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\PilaresPOO\\Polimorfismo\\Animal.cs",
+              "RelativeDocumentMoniker": "PilaresPOO\\Polimorfismo\\Animal.cs",
+              "ToolTip": "C:\\Users\\56385615871\\Desktop\\POO\\PilaresPOO\\Polimorfismo\\Animal.cs",
+              "RelativeToolTip": "PilaresPOO\\Polimorfismo\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:45:27.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PolimorfismoEx.cs",
+              "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\PilaresPOO\\Polimorfismo\\PolimorfismoEx.cs",
+              "RelativeDocumentMoniker": "PilaresPOO\\Polimorfismo\\PolimorfismoEx.cs",
+              "ToolTip": "C:\\Users\\56385615871\\Desktop\\POO\\PilaresPOO\\Polimorfismo\\PolimorfismoEx.cs",
+              "RelativeToolTip": "PilaresPOO\\Polimorfismo\\PolimorfismoEx.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:22:28.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Lampada.cs",
+              "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Lista1_ClassesObjetos\\FACIL\\Exercicio3\\Lampada.cs",
+              "RelativeDocumentMoniker": "ExerciciosPOO\\Lista1_ClassesObjetos\\FACIL\\Exercicio3\\Lampada.cs",
+              "ToolTip": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Lista1_ClassesObjetos\\FACIL\\Exercicio3\\Lampada.cs",
+              "RelativeToolTip": "ExerciciosPOO\\Lista1_ClassesObjetos\\FACIL\\Exercicio3\\Lampada.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:14:34.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Retangulo.cs",
-              "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Lista1-ClassesObjetos\\FACIL\\Exercicio2\\Retangulo.cs",
-              "RelativeDocumentMoniker": "ExerciciosPOO\\Lista1-ClassesObjetos\\FACIL\\Exercicio2\\Retangulo.cs",
-              "ToolTip": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Lista1-ClassesObjetos\\FACIL\\Exercicio2\\Retangulo.cs",
-              "RelativeToolTip": "ExerciciosPOO\\Lista1-ClassesObjetos\\FACIL\\Exercicio2\\Retangulo.cs",
+              "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Lista1_ClassesObjetos\\FACIL\\Exercicio2\\Retangulo.cs",
+              "RelativeDocumentMoniker": "ExerciciosPOO\\Lista1_ClassesObjetos\\FACIL\\Exercicio2\\Retangulo.cs",
+              "ToolTip": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Lista1_ClassesObjetos\\FACIL\\Exercicio2\\Retangulo.cs",
+              "RelativeToolTip": "ExerciciosPOO\\Lista1_ClassesObjetos\\FACIL\\Exercicio2\\Retangulo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T00:52:28.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T00:52:28.463Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Lista1-ClassesObjetos\\FACIL\\Exercicio1\\Pessoa.cs",
-              "RelativeDocumentMoniker": "ExerciciosPOO\\Lista1-ClassesObjetos\\FACIL\\Exercicio1\\Pessoa.cs",
-              "ToolTip": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Lista1-ClassesObjetos\\FACIL\\Exercicio1\\Pessoa.cs",
-              "RelativeToolTip": "ExerciciosPOO\\Lista1-ClassesObjetos\\FACIL\\Exercicio1\\Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Lista1_ClassesObjetos\\FACIL\\Exercicio1\\Pessoa.cs",
+              "RelativeDocumentMoniker": "ExerciciosPOO\\Lista1_ClassesObjetos\\FACIL\\Exercicio1\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Lista1_ClassesObjetos\\FACIL\\Exercicio1\\Pessoa.cs",
+              "RelativeToolTip": "ExerciciosPOO\\Lista1_ClassesObjetos\\FACIL\\Exercicio1\\Pessoa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-16T00:47:50.985Z",
@@ -144,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "Contato.cs",
               "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\MetodoConstrutor\\Exercicio3\\Contato.cs",
               "RelativeDocumentMoniker": "ExerciciosPOO\\MetodoConstrutor\\Exercicio3\\Contato.cs",
@@ -152,12 +284,11 @@
               "RelativeToolTip": "ExerciciosPOO\\MetodoConstrutor\\Exercicio3\\Contato.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAA6wB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T00:38:24.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T00:38:24.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "Viagem.cs",
               "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\MetodoConstrutor\\Exercicio2\\Viagem.cs",
               "RelativeDocumentMoniker": "ExerciciosPOO\\MetodoConstrutor\\Exercicio2\\Viagem.cs",
@@ -165,12 +296,11 @@
               "RelativeToolTip": "ExerciciosPOO\\MetodoConstrutor\\Exercicio2\\Viagem.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T00:36:33.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T00:36:33.641Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "Moto.cs",
               "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Heranca\\Exercicio3\\Moto.cs",
               "RelativeDocumentMoniker": "ExerciciosPOO\\Heranca\\Exercicio3\\Moto.cs",
@@ -178,12 +308,11 @@
               "RelativeToolTip": "ExerciciosPOO\\Heranca\\Exercicio3\\Moto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T00:32:25.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T00:32:25.723Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "Carro.cs",
               "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Heranca\\Exercicio3\\Carro.cs",
               "RelativeDocumentMoniker": "ExerciciosPOO\\Heranca\\Exercicio3\\Carro.cs",
@@ -191,12 +320,11 @@
               "RelativeToolTip": "ExerciciosPOO\\Heranca\\Exercicio3\\Carro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T00:29:14.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T00:29:14.219Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "Veiculo.cs",
               "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Heranca\\Exercicio3\\Veiculo.cs",
               "RelativeDocumentMoniker": "ExerciciosPOO\\Heranca\\Exercicio3\\Veiculo.cs",
@@ -204,12 +332,11 @@
               "RelativeToolTip": "ExerciciosPOO\\Heranca\\Exercicio3\\Veiculo.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T00:26:32.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T00:26:32.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "Gerente.cs",
               "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Heranca\\Exercicio2\\Gerente.cs",
               "RelativeDocumentMoniker": "ExerciciosPOO\\Heranca\\Exercicio2\\Gerente.cs",
@@ -217,12 +344,11 @@
               "RelativeToolTip": "ExerciciosPOO\\Heranca\\Exercicio2\\Gerente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T00:10:43.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T00:10:43.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "Funcionario.cs",
               "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Heranca\\Exercicio2\\Funcionario.cs",
               "RelativeDocumentMoniker": "ExerciciosPOO\\Heranca\\Exercicio2\\Funcionario.cs",
@@ -230,12 +356,11 @@
               "RelativeToolTip": "ExerciciosPOO\\Heranca\\Exercicio2\\Funcionario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T00:09:02.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T00:09:02.618Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "Cachorro.cs",
               "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Heranca\\Exercicio1\\Cachorro.cs",
               "RelativeDocumentMoniker": "ExerciciosPOO\\Heranca\\Exercicio1\\Cachorro.cs",
@@ -243,12 +368,11 @@
               "RelativeToolTip": "ExerciciosPOO\\Heranca\\Exercicio1\\Cachorro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T00:06:29.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T00:06:29.022Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "Animal.cs",
               "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Heranca\\Exercicio1\\Animal.cs",
               "RelativeDocumentMoniker": "ExerciciosPOO\\Heranca\\Exercicio1\\Animal.cs",
@@ -256,12 +380,11 @@
               "RelativeToolTip": "ExerciciosPOO\\Heranca\\Exercicio1\\Animal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T00:01:16.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T00:01:16.114Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "Professor.cs",
               "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\PilaresPOO\\Heranca\\Professor.cs",
               "RelativeDocumentMoniker": "PilaresPOO\\Heranca\\Professor.cs",
@@ -269,12 +392,11 @@
               "RelativeToolTip": "PilaresPOO\\Heranca\\Professor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T23:31:04.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-15T23:31:04.377Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "Aluno.cs",
               "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\PilaresPOO\\Heranca\\Aluno.cs",
               "RelativeDocumentMoniker": "PilaresPOO\\Heranca\\Aluno.cs",
@@ -282,12 +404,11 @@
               "RelativeToolTip": "PilaresPOO\\Heranca\\Aluno.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T23:30:22.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-15T23:30:22.219Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "Pessoa.cs",
               "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\PilaresPOO\\Heranca\\Pessoa.cs",
               "RelativeDocumentMoniker": "PilaresPOO\\Heranca\\Pessoa.cs",
@@ -295,12 +416,11 @@
               "RelativeToolTip": "PilaresPOO\\Heranca\\Pessoa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T23:27:24.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-15T23:27:24.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "Livro.cs",
               "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\MetodoConstrutor\\Exercicio1\\Livro.cs",
               "RelativeDocumentMoniker": "ExerciciosPOO\\MetodoConstrutor\\Exercicio1\\Livro.cs",
@@ -308,12 +428,11 @@
               "RelativeToolTip": "ExerciciosPOO\\MetodoConstrutor\\Exercicio1\\Livro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T23:04:03.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-15T23:04:03.309Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Encapsulamento\\Exercicio3\\Usuario.cs",
               "RelativeDocumentMoniker": "ExerciciosPOO\\Encapsulamento\\Exercicio3\\Usuario.cs",
@@ -321,12 +440,11 @@
               "RelativeToolTip": "ExerciciosPOO\\Encapsulamento\\Exercicio3\\Usuario.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAywCIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T22:45:07.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-15T22:45:07.251Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "Boletim.cs",
               "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Encapsulamento\\Exercicio2\\Boletim.cs",
               "RelativeDocumentMoniker": "ExerciciosPOO\\Encapsulamento\\Exercicio2\\Boletim.cs",
@@ -334,12 +452,11 @@
               "RelativeToolTip": "ExerciciosPOO\\Encapsulamento\\Exercicio2\\Boletim.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T22:35:45.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-15T22:35:45.62Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "ContadorDeVisita.cs",
               "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Encapsulamento\\Exercicio1\\ContadorDeVisita.cs",
               "RelativeDocumentMoniker": "ExerciciosPOO\\Encapsulamento\\Exercicio1\\ContadorDeVisita.cs",
@@ -347,97 +464,32 @@
               "RelativeToolTip": "ExerciciosPOO\\Encapsulamento\\Exercicio1\\ContadorDeVisita.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T22:26:17.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-15T22:26:17.019Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ExerciciosPOO",
-              "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\ExerciciosPOO.csproj",
-              "RelativeDocumentMoniker": "ExerciciosPOO\\ExerciciosPOO.csproj",
-              "ToolTip": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\ExerciciosPOO.csproj",
-              "RelativeToolTip": "ExerciciosPOO\\ExerciciosPOO.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-15T22:25:16.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Program.cs",
               "RelativeDocumentMoniker": "ExerciciosPOO\\Program.cs",
               "ToolTip": "C:\\Users\\56385615871\\Desktop\\POO\\ExerciciosPOO\\Program.cs",
               "RelativeToolTip": "ExerciciosPOO\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAHgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-15T22:24:58.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PilaresPOO",
-              "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\PilaresPOO\\PilaresPOO.csproj",
-              "RelativeDocumentMoniker": "PilaresPOO\\PilaresPOO.csproj",
-              "ToolTip": "C:\\Users\\56385615871\\Desktop\\POO\\PilaresPOO\\PilaresPOO.csproj",
-              "RelativeToolTip": "PilaresPOO\\PilaresPOO.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-15T22:21:57.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\POOFundamentos\\.gitignore",
-              "RelativeDocumentMoniker": "POOFundamentos\\.gitignore",
-              "ToolTip": "C:\\Users\\56385615871\\Desktop\\POO\\POOFundamentos\\.gitignore",
-              "RelativeToolTip": "POOFundamentos\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-10-14T23:06:07.502Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\PilaresPOO\\Program.cs",
-              "RelativeDocumentMoniker": "PilaresPOO\\Program.cs",
-              "ToolTip": "C:\\Users\\56385615871\\Desktop\\POO\\PilaresPOO\\Program.cs",
-              "RelativeToolTip": "PilaresPOO\\Program.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T22:57:31.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\POOFundamentos\\Program.cs",
               "RelativeDocumentMoniker": "POOFundamentos\\Program.cs",
               "ToolTip": "C:\\Users\\56385615871\\Desktop\\POO\\POOFundamentos\\Program.cs",
               "RelativeToolTip": "POOFundamentos\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAowCQBAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAABYBAAAAAAAAAAAQwCkBAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-14T22:57:30.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "POOFundamentos.csproj",
-              "DocumentMoniker": "C:\\Users\\56385615871\\Desktop\\POO\\POOFundamentos\\POOFundamentos.csproj",
-              "RelativeDocumentMoniker": "POOFundamentos\\POOFundamentos.csproj",
-              "ToolTip": "C:\\Users\\56385615871\\Desktop\\POO\\POOFundamentos\\POOFundamentos.csproj",
-              "RelativeToolTip": "POOFundamentos\\POOFundamentos.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-14T22:57:22.225Z",
               "EditorCaption": ""
             }
           ]

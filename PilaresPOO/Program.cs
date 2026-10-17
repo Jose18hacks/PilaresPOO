@@ -1,5 +1,6 @@
 ﻿using PilaresPOO;
 using PilaresPOO.Heranca;
+using PilaresPOO.Polimorfismo;
 
 //Carro carro1 = new Carro("Hyundai", "HB20");
 
@@ -51,10 +52,19 @@ using PilaresPOO.Heranca;
 
 //Console.WriteLine(usuario.ConferirSenha("novaSenha"));
 
-Aluno aluno = new Aluno();
+//Aluno aluno = new Aluno();
 
-aluno.Nome = "José";
-aluno.Idade = 18;
-aluno.Matricula = "8432193";
+//aluno.Nome = "José";
+//aluno.Idade = 18;
+//aluno.Matricula = "8432193";
 
-aluno.Apresentar();
+//aluno.Apresentar();
+
+Animal a =  new Animal();
+a.FazerSom();
+
+Cachorro c = new Cachorro();
+c.FazerSom();
+
+Gato g = new Gato();
+g.FazerSom();

@@ -281,13 +281,18 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 //string frase = ana.ObterApresentacao();
 //Console.WriteLine(frase);
 
+//METODO CONSTRUTOR -> Evita que as atribuições fiquem vazias para evitar erros
 
-//ENCAPSULAMENTO -> Public, Private, Internal (onde o dado pode ser alterado)
+//ENCAPSULAMENTO -> Permite que eu esconda campos / metodos/ classes == Public, Private, Internal (onde o dado pode ser alterado)
 //GET ; SET
-
 //GET -> Função de ler
 //SET -> Funçõ de mudar
 
+//HERANÇA -> (Reaproveitar código) Herdar os campos e metdodos de uma classe pai
 
+//Polimorfismo: (muitas formas): uma mesma função pode ter varias formas
+//--Sobrecarga: mesmo nome, parametros diferentes
+//--Sobrescrita: Herança /// virtual: esse metodo PODE SER SOBRESCRITO (usado no pai)/// override: sobrescrever (usado no filho)
 
-//Herança (Reaproveitar código) Herdar de uma classe pai
+//ABSTAÇÃO -> Esconder o que uma classe faz
+//--Inteface (contrato): Fachada (Metodos)
